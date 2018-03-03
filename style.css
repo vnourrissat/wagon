@@ -28,6 +28,7 @@ h2 {
 #fou{
 	font-size: 20px;
 	color: yellow;
+	font: Arial;
 
 }
 
@@ -54,5 +55,15 @@ La balise span="" permet d'appliquer un code à un seul élément (id)*/
 L'inverse fera un truc degueulasse
 Responsive design: quand ca s'adapte a la device et quand on change la taille du window ca s'adapte aussi
 
-Bootstrap a 12 colonnes
-col
+Bootstrap a 12 colonnes*/
+
+
+/* Aprem GitHub:
+
+100vh = toute la taille de la fenetre
+
+Flexbox:
+
+display: flex
+align-items: center
+justify-content: center;
