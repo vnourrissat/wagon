@@ -1,0 +1,58 @@
+<head>
+
+<link href="style.css">
+</head>
+
+h1 {
+width: 100
+color: red;
+font-family: Courier;
+font-size: 15px;
+font-weight: lighter;
+
+}
+
+h2 {
+	background-color: rgb(100, 78,10);
+	color: red;
+	font-family: Courier
+
+}
+
+.superclass{
+
+	font-size: 90px;
+
+}
+
+#fou{
+	font-size: 20px;
+	color: yellow;
+
+}
+
+div {
+	border: solid;
+	padding: 10px;
+
+
+}
+ #middle {
+ 	border-radius: 60px;
+ 	font-family: Courier
+
+
+ }
+
+
+/*class= mocifier plusieurs elemnts
+id= modifier un seul element
+La balise span="" permet d'appliquer un code à un seul élément (id)*/
+
+
+/* Une bonne pratique quand on code c'est qu'on commence par designer pour un telephone puis agrandir
+L'inverse fera un truc degueulasse
+Responsive design: quand ca s'adapte a la device et quand on change la taille du window ca s'adapte aussi
+
+Bootstrap a 12 colonnes
+col
