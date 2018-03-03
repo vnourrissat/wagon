@@ -1,10 +1,14 @@
 <head>
 
 <link href="style.css">
+background-color: #C9E6F3;
 </head>
+	
+}
+
 
 h1 {
-width: 100
+width: 100;
 color: red;
 font-family: Courier;
 font-size: 15px;
@@ -12,10 +16,13 @@ font-weight: lighter;
 
 }
 
+title {
+	text-align: center;
+}
 h2 {
 	background-color: rgb(100, 78,10);
 	color: red;
-	font-family: Courier
+	font-family: Courier;
 
 }
 
@@ -30,17 +37,25 @@ h2 {
 	color: yellow;
 	font: Arial;
 
+
 }
 
 div {
 	border: solid;
 	padding: 10px;
+	background-color: #C9E6F3;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 
 
 }
  #middle {
  	border-radius: 60px;
- 	font-family: Courier
+ 	font-family: Courier;
+ 	display: flex;
+	align-items: center;
+	justify-content: center;
 
 
  }
